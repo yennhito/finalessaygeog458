@@ -4,9 +4,9 @@
 
 On March 11th 2020 The World Health Organization (WHO) declared COVID-19 a global pandemic. One year later, in 2021 we can reflect and see how COVID-19 has changed our everyday lives and has forever impacted families, lifestyles, politics, economics and healthcare.
 
-The focus of this narrative and analysis is to explore and focus on the ever relevant topic of COVID-19. However, instead of focusing on the tragedies, deaths, cases, test rates, hospilizations, mortality risks and transmission rates of the disease it will explore a project that focuses on the distribution, impact, and opinions on vaccine distribution. 
+The focus of this narrative and analysis is to explore and focus on the ever relevant topic of COVID-19. However, instead of focusing on the tragedies, deaths, cases, test rates, hospitalizations, mortality risks and transmission rates of the disease it will explore a project that focuses on the distribution, impact, and opinions on vaccine distribution. 
 
-I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” life.
+I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” state.
 
 ## [Link to the Project | Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
