@@ -80,21 +80,21 @@ Some projects are difficult to view on mobile devices. This project projects qui
 
 <img src ="img/ios_text_overlap.jpg" alt="text overlap on mobile device" width="500" />
 
-Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. **Seen below are three maps from the project**
+Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. **Seen below are three maps from the project.**
 
-<img src ="img/bluemap.PNG" alt="blue map" width="500" />
-<img src ="img/redmap.PNG" alt="red map" width="500" />
-<img src ="img/greenmap.PNG" alt="green map" width="500" />
+<img src ="img/bluemap.png" alt="blue map" width="500" />
+<img src ="img/redmap.png" alt="red map" width="500" />
+<img src ="img/greenmap.png" alt="green map" width="500" />
 
 The project includes regions that do not have relevant information due to the nature of mapping on a global scale. Aside from the lack of data from areas I think the project gives attention to if a map is sourced specifically from one source rather than an aggregate as seen below.
 
-<img src ="img/diffsource.PNG" alt="alt source notification"/>
+<img src ="img/diffsource.png" alt="alt source notification"/>
 
 One interesting component of this project is that it explores the distribution of different COVID-19 vaccines by manufacturer. This one component provides insight into the politics and economics of vaccine manufacturing and approval processes. The chart display section does not fully show this story but the hints can be seen in the sources section of the project since vaccines are listed by country.
 
 Below is a snippet of the source section of the project that includes countries and their respective vaccines.
 
-<img src ="img/vaccines.PNG" alt="table of countries and related info on vaccines" />
+<img src ="img/vaccines.png" alt="table of countries and related info on vaccines" />
 
 
 ### **Key Takeaways and Implications**
