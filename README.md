@@ -8,7 +8,7 @@ The focus of this narrative and analysis is to explore and focus on the ever rel
 
 I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” life.
 
-## ** [Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations] (https://ourworldindata.org/covid-vaccinations )**
+## **[Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations] (https://ourworldindata.org/covid-vaccinations) **
 
 ### The Sources of the Project and its Works
 
@@ -65,7 +65,7 @@ The assumption is that the maps, charts, tables used for this project are using 
 
 Some projects are difficult to view on mobile devices. This project projects quite nicely onto iOS mobile devices and can withstand the same interactive features. Similar to other projects there is some aesthetic loss of content being restricted to the size of mobile devices. Upon viewing charts and graphs on a mobile device there is often a clutter from overlapping text, hence making it difficult to read and decipher the intended messages (shown in image below inside orange box). 
 
-![text overlap on mobile device](img/ios_text_overlap.jpg)
+![text overlap on mobile device](img/ios_text_overlap.jpg =100x20)
 
 Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. 
 
