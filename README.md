@@ -1,6 +1,6 @@
-# finalessaygeog458
+# GEOG458 Final Essay Analysis
 
-### Context
+### **Context**
 
 On March 11th 2020 The World Health Organization (WHO) declared COVID-19 a global pandemic. One year later, in 2021 we can reflect and see how COVID-19 has changed our everyday lives and has forever impacted families, lifestyles, politics, economics and healthcare.
 
@@ -8,7 +8,7 @@ The focus of this narrative and analysis is to explore and focus on the ever rel
 
 I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” life.
 
-Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations
+## ** [Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations] (https://ourworldindata.org/covid-vaccinations )**
 
 ### The Sources of the Project and its Works
 
@@ -22,7 +22,7 @@ According to the source,the project is updated each morning (London time) “wit
 The datasets used for this project are openly available for use by the general public. The data can be found in Our World in Data’s COVID-19 Vaccination GitHub repository which is updated daily.
 
 
-### The Project Topic
+### **The Project Topic** 
 
 The following questions and topics are explored in the project 
 - COVID-19 Vaccinations
@@ -36,12 +36,12 @@ The following questions and topics are explored in the project
 - Attitudes to COVID-19 vaccinations
 - Vaccine development:vaccines approved for use and in clinical trials
 
-### What is the Project?
+### **What is the Project?**
 
 The digital geography project that will be explored in this analysis was produced by the “Our World in Data” Organization. The project is a “Coronavirus Pandemic Data Explorer”, for the purposes of this assignment I will focus solely on the Vaccination portion of the project. The Data Explorer produced serves to inform, educate and give insight into vaccine rollout across the world. The project includes chloropleth world maps that focus on specific questions posed around vaccine rollout such as cumulative does, dose distribution rate, daily dose rates, vaccine type. 
 
 
-### How is the Data Displayed?
+### **How is the Data Displayed?**
 
 The data is displayed through three methods, maps, charts/graphs and tables. 
 
@@ -56,14 +56,16 @@ All three methods effectively display data, providing insight into the vaccine d
 Since the data is divided by specific questions of interest all the maps pose only a thematic layer to represent the question in view. 
 
 
-### System Architecture
+### **System Architecture**
 
 The assumption is that the maps, charts, tables used for this project are using several serves to do so. Databases and file servers hold all the data.From the open access the sources GitHub repository that holds the data for the project it can be seen that the data is stored in .csv files. The assumption from this is that a user would import files and use SQL to clean and apply datasets as needed.
 
 
-### Cross Platform Compatibility & Critiques
+### **Cross Platform Compatibility & Critiques**
 
 Some projects are difficult to view on mobile devices. This project projects quite nicely onto iOS mobile devices and can withstand the same interactive features. Similar to other projects there is some aesthetic loss of content being restricted to the size of mobile devices. Upon viewing charts and graphs on a mobile device there is often a clutter from overlapping text, hence making it difficult to read and decipher the intended messages (shown in image below inside orange box). 
+
+![text overlap on mobile device](img/ios_text_overlap.jpg)
 
 Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. 
 
@@ -72,7 +74,7 @@ The project includes regions that do not have relevant information due to the na
 One interesting component of this project is that it explores the distribution of different COVID-19 vaccines by manufacturer. This one component provides insight into the politics and economics of vaccine manufacturing and approval processes. The chart display section does not fully show this story but the hints can be seen in the sources section of the project since vaccines are listed by country.
 
 
-### Key Takeaways and Implications
+### **Key Takeaways and Implications**
 
 This project provides insight into the vaccine rollout and distribution that is occurring worldwide. Despite this project being updated daily it is important to note that the data captured is representing only one narrative and perspective. This project provides a large overview of the distribution of vaccines but on a smaller scope it does not represent the continual struggle and difficulty of rolling out vaccines. This project however allows us to track the progress of vaccine rollout and can help predict a situation in which vaccination rates have reached a point where herd immunity is established and life can return to “normal”.
 
