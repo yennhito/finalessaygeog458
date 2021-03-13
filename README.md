@@ -45,7 +45,7 @@ The following questions and topics are explored in the project.
 
 --- 
 
-The digital geography project that will be explored in this analysis was produced by the “Our World in Data” Organization. The project is a “Coronavirus Pandemic Data Explorer”, for the purposes of this assignment I will focus solely on the Vaccination portion of the project. The Data Explorer produced serves to inform, educate and give insight into vaccine rollout across the world. The project includes chloropleth world maps that focus on specific questions posed around vaccine rollout such as cumulative does, dose distribution rate, daily dose rates, vaccine type. 
+The digital geography project that will be explored in this analysis was produced by the “Our World in Data” Organization. The project is a “Coronavirus Pandemic Data Explorer”, for the purposes of this assignment I will focus solely on the Vaccination portion of the project. The Data Explorer produced serves to inform, educate and give insight into vaccine rollout across the world. The project includes chloropleth maps, tables, charts, and graphs, that focus on specific questions posed around vaccine rollout such as cumulative does, dose distribution rate, daily dose rates, vaccine type. 
 
 
 ### **How is the Data Displayed?**
@@ -54,12 +54,12 @@ The digital geography project that will be explored in this analysis was produce
 
 The data is displayed through three methods, maps, charts/graphs and tables. 
 
-World maps are the default display but there is the option to view specific regions or areas of the World. The view breakdown of the areas is similar to that of continents - you can choose to change the view to Asia, Europe, Africa, Oceania, North or South America.  The maps utilizes  pop ups on hover to share information relevant to the country of interest. Upon hovering, the project informs you of the information of interest and the last data update for the country. In addition, upon hovering you can click the area of interest to see the data progression over time. When viewing the color code-ed key you can also click the content of the key to highlight the affected areas. An example of a world map from the project is shown below.
+World maps are some of the default displays but there is the option to view specific regions or areas of the World. The view breakdown of the areas is similar to that of continents - you can choose to change the view to Asia, Europe, Africa, Oceania, North or South America.  The maps utilizes  pop ups on hover to share information relevant to the country of interest. Upon hovering, the project informs you of the information of interest and the last data update for the country. In addition, upon hovering you can click the area of interest to see the data progression over time. When viewing the color code-ed key you can also click the content of the key to highlight the affected areas. An example of a world map from the project is shown below.
 
-<img src ="img/greenmap.png" alt="green map"/>
+<img src ="img/worldmapexample.png" alt="example"/>
 
 
-Aside from the maps displays the project provides the data in alternative methods such as a table and or chart/graph. The chart/graph functions focuses on a handful of countries that have relevant data for the question of interest. You can choose to view specific countries of interest. Upon hover you are able to view specific data points based on day or amount. The chart/graph displays also incorporates a time lapse slider function which allows one to see change over a time period. The time lapse function is also applicable to the map view but does not have as much of an efficient impact. Examples of the charts and graphs given from the project are below.
+Aside from the map displays the project provides the data in alternative methods such as a table and or chart/graph. The chart/graph display focuses on a handful of countries that have relevant data for the question of interest. You can choose to view specific countries of interest. Upon hover you are able to view specific data points based on day or amount. The chart/graph displays also incorporates a time lapse slider function which allows one to see change over a time period. The time lapse function is also applicable to the map view but does not have as much of an efficient impact. Examples of the charts and graphs given from the project are below.
 
 <img src ="img/graph.png" alt="graph"/>
 <img src ="img/chart.png" alt="chart"/>
@@ -88,19 +88,17 @@ Some projects are difficult to view on mobile devices. This project projects qui
 
 <img src ="img/ios_text_overlap.jpg" alt="text overlap on mobile device" width="500" />
 
-Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. **Seen below are three maps from the project.**
+Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. **The differences in map color schemes are shown.**
 
 <img src ="img/bluemap.png" alt="blue map" width="500" />
 <img src ="img/redmap.png" alt="red map" width="500" />
 <img src ="img/greenmap.png" alt="green map" width="500" />
 
-The project includes regions that do not have relevant information due to the nature of mapping on a global scale. Aside from the lack of data from areas I think the project gives attention to if a map is sourced specifically from one source rather than an aggregate as seen below.
+The project includes regions that do not have relevant information due to the nature of mapping on a global scale. Aside from the lack of data from areas I think the project gives appropriate attention to if a map is sourced specifically from one source rather than an aggregate as seen below.
 
 <img src ="img/diffsource.png" alt="alt source notification"/>
 
-One interesting component of this project is that it explores the distribution of different COVID-19 vaccines by manufacturer. This one component provides insight into the politics and economics of vaccine manufacturing and approval processes. The chart display section does not fully show this story but the hints can be seen in the sources section of the project since vaccines are listed by country.
-
-Below is a snippet of the source section of the project that includes countries and their respective vaccines.
+One interesting component of this project is that it explores the distribution of different COVID-19 vaccines by manufacturer. This one component provides insight into the politics and economics of vaccine manufacturing and approval processes. The chart display section does not fully show this story but the hints can be seen in the sources section of the project since vaccines are listed by country.Below is a snippet of the source section of the project that includes countries and their respective vaccines.
 
 <img src ="img/vaccines.png" alt="table of countries and related info on vaccines" />
 
