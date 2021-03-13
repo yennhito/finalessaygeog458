@@ -8,8 +8,9 @@ The focus of this narrative and analysis is to explore and focus on the ever rel
 
 I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” life.
 
-## [Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations](https://ourworldindata.org/covid-vaccinations)
+## [Link to the Project | Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
+# 
 ### The Sources of the Project and its Works
 
 ---
@@ -54,11 +55,17 @@ The digital geography project that will be explored in this analysis was produce
 
 The data is displayed through three methods, maps, charts/graphs and tables. 
 
-World maps are the default display but there is the option to view specific regions or areas of the World. The view breakdown of the areas is similar to that of continents - you can choose to change the view to Asia, Europe, Africa, Oceania, North or South America.  The maps utilizes  pop ups on hover to share information relevant to the country of interest. Upon hovering, the project informs you of the information of interest and the last data update for the country. In addition, upon hovering you can click the area of interest to see the data progression over time. When viewing the color code-ed key you can also click the content of the key to highlight the affected areas.
+World maps are the default display but there is the option to view specific regions or areas of the World. The view breakdown of the areas is similar to that of continents - you can choose to change the view to Asia, Europe, Africa, Oceania, North or South America.  The maps utilizes  pop ups on hover to share information relevant to the country of interest. Upon hovering, the project informs you of the information of interest and the last data update for the country. In addition, upon hovering you can click the area of interest to see the data progression over time. When viewing the color code-ed key you can also click the content of the key to highlight the affected areas. An example of a world map from the project is shown below.
 
-Aside from the maps displays the project provides the data in alternative methods such as a table and or chart/graph. The chart/graph functions focuses on a handful of countries that have relevant data for the question of interest. You can choose to view specific countries of interest. Upon hover you are able to view specific data points based on day or amount. The chart/graph displays also incorporates a time lapse slider function which allows one to see change over a time period. The time lapse function is also applicable to the map view but does not have as much of an efficient impact. 
+<img src ="img/greenmap.png" alt="green map"/>
 
-The table view is the most raw display of the data, it includes the least and minimal interactive functions. The interactive features for the tables include filtering by country and by alphabetical or maximum and minimum amounts. The time lapse function is still functional for the table view but the effectiveness in telling a story is low. 
+
+Aside from the maps displays the project provides the data in alternative methods such as a table and or chart/graph. The chart/graph functions focuses on a handful of countries that have relevant data for the question of interest. You can choose to view specific countries of interest. Upon hover you are able to view specific data points based on day or amount. The chart/graph displays also incorporates a time lapse slider function which allows one to see change over a time period. The time lapse function is also applicable to the map view but does not have as much of an efficient impact. Examples of the charts and graphs given from the project are below.
+<img src ="img/graph.png" alt="graph"/>
+<img src ="img/chart.png" alt="chart"/>
+
+The table view is the most raw display of the data, it includes the least and minimal interactive functions. The interactive features for the tables include filtering by country and by alphabetical or maximum and minimum amounts. The time lapse function is still functional for the table view but the effectiveness in telling a story is low. An example of a table from teh project is shown below.
+<img src ="img/table.png" alt="table"/>
 
 All three methods effectively display data, providing insight into the vaccine distribution and rollout in various countries.
 
