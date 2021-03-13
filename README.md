@@ -12,17 +12,22 @@ I chose to explore a project with a focus on vaccines because the vaccine rollou
 
 ### The Sources of the Project and its Works
 
+---
+
+
 The data displayed in the project is country specific. The project included a detailed list of all the country-specific sources. Most of the data from each country originate from governmental health agencies.  Most sources include Ministries of Health, general government agencies such as Emergency and Disaster Management Authorities and organizations such as those that resemble the CDC (Centers for Diseases Control and Prevention).
 
-The works of this project are cited in other projects such as those at John Hopkin’s University where they are also tracking vaccination progress with a focus more centric on the United States.
+The works of this project are cited in other [projects such as those at John Hopkin’s University](https://coronavirus.jhu.edu/vaccines/us-states#vaccination-rollout-us) where they are also tracking vaccination progress with a focus more centric on the United States.
 
 According to the source,the project is updated each morning (London time) “with the most recent official numbers up to the previous day”
 
-##### Open Access
-The datasets used for this project are openly available for use by the general public. The data can be found in Our World in Data’s COVID-19 Vaccination GitHub repository which is updated daily.
+#### Open Access
+The datasets used for this project are openly available for use by the general public. The data can be found in [Our World in Data’s COVID-19 Vaccination GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) which is updated daily.
 
 
 ### **The Project Topic** 
+
+---
 
 The following questions and topics are explored in the project 
 - COVID-19 Vaccinations
@@ -38,10 +43,14 @@ The following questions and topics are explored in the project
 
 ### **What is the Project?**
 
+--- 
+
 The digital geography project that will be explored in this analysis was produced by the “Our World in Data” Organization. The project is a “Coronavirus Pandemic Data Explorer”, for the purposes of this assignment I will focus solely on the Vaccination portion of the project. The Data Explorer produced serves to inform, educate and give insight into vaccine rollout across the world. The project includes chloropleth world maps that focus on specific questions posed around vaccine rollout such as cumulative does, dose distribution rate, daily dose rates, vaccine type. 
 
 
 ### **How is the Data Displayed?**
+
+---
 
 The data is displayed through three methods, maps, charts/graphs and tables. 
 
@@ -58,14 +67,18 @@ Since the data is divided by specific questions of interest all the maps pose on
 
 ### **System Architecture**
 
+---
+
 The assumption is that the maps, charts, tables used for this project are using several serves to do so. Databases and file servers hold all the data.From the open access the sources GitHub repository that holds the data for the project it can be seen that the data is stored in .csv files. The assumption from this is that a user would import files and use SQL to clean and apply datasets as needed.
 
 
 ### **Cross Platform Compatibility & Critiques**
 
+---
+
 Some projects are difficult to view on mobile devices. This project projects quite nicely onto iOS mobile devices and can withstand the same interactive features. Similar to other projects there is some aesthetic loss of content being restricted to the size of mobile devices. Upon viewing charts and graphs on a mobile device there is often a clutter from overlapping text, hence making it difficult to read and decipher the intended messages (shown in image below inside orange box). 
 
-![text overlap on mobile device](img/ios_text_overlap.jpg =100x20)
+<img src ="img/ios_text_overlap.jpg" alt="text overlap on mobile device" width="200" />
 
 Color schemes continue to be an active and potentially passive means of portraying opinions and narratives. Colors are able to portray different tones and sway perspectives. The project utilizes red, greens and blues on the choropleth maps depending on the question posed that it is trying to answer. This subtle yet distinct difference in color schemes could be intentional to try to persuade and pursue different political motives or set different tones. Despite the lack of uniformity across color schemes of the choropleth maps there is not a major distraction from the data that is being portrayed. 
 
@@ -75,6 +88,8 @@ One interesting component of this project is that it explores the distribution o
 
 
 ### **Key Takeaways and Implications**
+
+---
 
 This project provides insight into the vaccine rollout and distribution that is occurring worldwide. Despite this project being updated daily it is important to note that the data captured is representing only one narrative and perspective. This project provides a large overview of the distribution of vaccines but on a smaller scope it does not represent the continual struggle and difficulty of rolling out vaccines. This project however allows us to track the progress of vaccine rollout and can help predict a situation in which vaccination rates have reached a point where herd immunity is established and life can return to “normal”.
 
