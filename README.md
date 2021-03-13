@@ -8,7 +8,7 @@ The focus of this narrative and analysis is to explore and focus on the ever rel
 
 I chose to explore a project with a focus on vaccines because the vaccine rollout has the opportunity to shift our lives back into what we knew as a “normal” life.
 
-## **[Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations](https://ourworldindata.org/covid-vaccinations) **
+## [Our World in Data | Coronavirus Pandemic Data Explorer | Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
 ### The Sources of the Project and its Works
 
